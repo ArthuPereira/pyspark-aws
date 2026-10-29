@@ -1,0 +1,7 @@
+[project]
+name = "pyspark-aws"
+version = "0.1.0"
+requires-python = ">=3.15"
+dependencies = [
+    "pyspark>=4.2.1",
+]
