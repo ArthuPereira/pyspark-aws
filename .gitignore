@@ -1,2 +1,7 @@
 .venv
 .env
+data/
+*.parquet
+*.csv
+.bucket_name
+cluster_id.txt
